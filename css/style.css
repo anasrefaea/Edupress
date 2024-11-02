@@ -582,7 +582,8 @@ footer {
     }
 }
 /* ============================  Style (Courses-Blog) =========================== */
-.hero-top-direction{
+.hero-top-direction
+{
     padding-left:var(--padding-safe) ;
     width: 100%;
     margin-top: 72px;
@@ -945,7 +946,9 @@ footer {
         height: 90px;
         padding: 30px 20px;
     }
-
+    .hero-top-direction{
+        margin-top: 90px;
+    }
     .hero {
         padding: 20px;
         display: flex;
